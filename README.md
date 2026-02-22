@@ -145,6 +145,6 @@ MIT License. Free to use, modify, and share.
 ## About
 
 Created and maintained by [@thenamakop](https://github.com/thenamakop)
-Co-Authors : Nishchay Sethi & Nitish Kalkal
+Co-Authors : Nishchay Sethi - [@nishchay1606](https://github.com/nischay1606) & Nitish Kalkal
 
 ---
